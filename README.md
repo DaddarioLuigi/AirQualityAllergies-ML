@@ -1,2 +1,3 @@
 # AirQualityAllergies-ML
-Predictive model for studying the relationships between AirQuality and Allergies
+This project aims to design a machine learning model that, starting from a dataset containing measurements of specific pollutants in some areas of the city, is able to predict the value of air quality in the future and the typical allergic symptoms caused by such pollutants. It also promises to study the correlations between these measurements and the symptoms of allergic subjects.
+This project aims to design a machine learning model that, starting from a dataset containing measurements of specific pollutants in some areas of the city, is able to predict the value of air quality in the future and the typical allergic symptoms caused by such pollutants. It also promises to study the correlations between these measurements and the symptoms of allergic subjects.
